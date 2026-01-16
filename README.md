@@ -10,7 +10,7 @@ Data Analyst | SQL • Power BI • Python
 Turning data into actionable business insights
 </p>
 
----
+
 
 ## About Me
 
